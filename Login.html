@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Giriş Yap</title>
+  <link rel="stylesheet" href="Login.css">
+  <meta charset="UTF-8">
+  <meta name="author" content="Yakup Emirhan Dincel">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+</head>
+<body style="background-color: white">
+  <div class="navbar">
+      <div class="logo">
+      <a>YEDINCEL</a>
+      </div>
+      <ul id="vote">
+          <li> <a href="index.html">Ana Sayfa</a></li>
+          <li> <a href="#">Kategoriler</a></li>
+          <li> <a href="Contact.html">Hakkımda</a></li>
+      </ul>
+  </div>
+    <form class="login-form">
+        <div class="login">
+            <label for="mail">E-posta</label>
+            <br><input type="email" id="mail"/></br>
+            <label for="parola">Parola</label>
+            <br><input type="password" id="parola" minlength="8"></br>
+        </div>
+        <div class="link">
+            <a style="color: #0a66c2;" href="Signup.html">Hesabın yok mu? Kaydol</a>
+        </div>
+        <div class="click">
+            <button type="button" onclick="parent.location='index.html'">Giriş Yap</button>
+        </div>
+    </form>
+</body>
+</html>
