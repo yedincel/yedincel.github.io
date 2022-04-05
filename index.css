@@ -103,7 +103,7 @@ border-radius: 20px;
 border-color: black;
 background-color: white;
 width: 440px;
-height: 490px;
+height: 510px;
 box-shadow: 0 0 7px 7px rgba(0, 0, 0, 0.30);
 }
 #foto
@@ -142,13 +142,14 @@ font-family: Calibri;
 {
 margin: auto;
 margin-left: 545px;
-top: 605px;
+top: 615px;
 position: absolute;
 }
 .logo a
 {
 text-decoration: none;
 }
+/*Blog kısmı*/
 .blog h1
 {
 margin:auto;
