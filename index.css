@@ -180,7 +180,7 @@ position: absolute;
 {
 list-style: none;
 margin: auto;
-margin-left:23px;
+margin-left:35px;
 top: 310px;
 position: absolute;
 color: black;
@@ -190,8 +190,8 @@ font-family: Calibri;
 .logo
 {
 margin: auto;
-margin-left: 545px;
-top: 605px;
+margin-left: 540px;
+top: 590px;
 position: absolute;
 }
 .logo a

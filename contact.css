@@ -39,7 +39,7 @@ position: absolute;
 {
 list-style: none;
 margin: auto;
-margin-left:25px;
+margin-left:35px;
 top: 390px;
 position: absolute;
 color: black;
@@ -49,8 +49,8 @@ font-family: Calibri;
 .logo
 {
 margin: auto;
-margin-left: 165px;
-top: 515px;
+margin-left: 155px;
+top: 500px;
 position: absolute;
 }
 .logo a
