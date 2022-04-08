@@ -148,7 +148,7 @@ font-family: Calibri;
 }
 /* Banner */
 .banner-image {
-background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("forest.jpg");
+background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("06.forest.jpg");
 height: 35%;
 width: 100%;
 background-position: center;
