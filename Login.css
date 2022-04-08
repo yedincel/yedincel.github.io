@@ -63,7 +63,7 @@ z-index: 1;
 min-width: 160px;
 box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.2);
 background-color: white;
-border-radius: 12px;
+border-radius: 16px;
 font-family: Calibri;
 font-size: 15px;
 color:black;
@@ -76,7 +76,7 @@ display: block;
 }
 .dropdown-content b:hover {
 background-color: rgb(230, 230, 230);
-border-radius: 12px;
+border-radius: 16px;
 }
 .dropdown:hover .dropdown-content
 {
@@ -148,7 +148,7 @@ color: white;
 .link
 {
 font-family: Calibri;
-font-size: 16px;
-padding-left: 48px;
+font-size: 15px;
+padding-left: 51px;
 padding-top: 20px;
 }
