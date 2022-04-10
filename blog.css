@@ -5,12 +5,12 @@ padding: 0;
 }
 .container
 {
-width: 100%;
-height: 100%;
+width: 1205px;
+height: auto;
 margin: auto;
 background-color:white;
 border:0px solid;
-border-color: #141a23;
+border-color: #086bff;
 box-shadow: 0 0 4px 4px rgb(0,0,0,0.30);
 }
 .navbar
@@ -155,7 +155,7 @@ font-family: Calibri;
 .blog h1
 {
 margin:auto;
-margin-left: 195px;
+margin-left: 50px;
 top:140px;
 position: absolute;
 font-size: 25px;
@@ -174,14 +174,14 @@ box-shadow: 0 0 1.2px 1.2px rgba(0, 0, 0, 0.20);
 .blog p
 {
 margin: auto;
-margin-left: 195px;
+margin-left: 50px;
 top: 225px;
 position: absolute;
 font-size: 15px;
 font-family: sans-serif;
 color: black;
 background-color:white;
-width: 640px; /*39.5%;*/
+width: 630px; /*39.5%;*/
 height: 952px;
 padding: 30px;
 border: 1px solid;
@@ -199,7 +199,7 @@ color: black;
 .picture
 {
 margin:auto;
-margin-left: 925px;
+margin-left: 778px;
 top:224px;
 position: absolute;
 border: 0px solid;
@@ -213,7 +213,7 @@ border-radius: 12px;
 .picture-2
 {
 margin:auto;
-margin-left: 925px;
+margin-left: 778px;
 top: 746px;
 position: absolute;
 border: 0px solid;
