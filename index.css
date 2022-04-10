@@ -109,7 +109,6 @@ background-color: white;
 border-radius: 16px;
 color: black;
 }*/
-/*
 #vote a:hover 
 {
 background: white;
@@ -164,7 +163,8 @@ background-repeat: no-repeat;
 background-size: cover;
 position: relative;
 }*/
-.banner-text {
+.banner-text
+{
 text-align: center;
 position: absolute;
 top: 50%;
@@ -174,7 +174,8 @@ color: white;
 font-family: Calibri;
 font-size: 34px;
 }
-.banner-text button {
+.banner-text button 
+{
 border: none;
 outline: 0;
 display: inline-block;
@@ -184,7 +185,8 @@ background-color: #ddd;
 text-align: center;
 cursor: pointer;
 }
-.banner-text button:hover {
+.banner-text button:hover 
+{
 background-color: #555;
 color: white;
 }
