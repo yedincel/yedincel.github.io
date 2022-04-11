@@ -219,10 +219,10 @@ border-radius: 70%;
 #yed
 {
 color: white;
-font-size: 25px;
-font-family: 'Lucida Sans Regular';
+font-size: 30px;
+font-family: 'Trebuchet MS';
 margin: auto;
-margin-left: 125px;
+margin-left: 110px;
 top: 260px;
 position: absolute;
 }
@@ -231,16 +231,16 @@ position: absolute;
 font-family: Calibri;
 list-style: none;
 margin: auto;
-margin-left:45px;
+margin-left:60px;
 top: 305px;
 position: absolute;
 color: white;
-font-size: 18px;
+font-size: 17px;
 }
 #logo
 {
 margin: auto;
-margin-left:175px;
+margin-left:178px;
 top: 405px;
 position: absolute;
 }
