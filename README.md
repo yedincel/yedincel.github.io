@@ -1,2 +1,4 @@
 # yedincel.github.io
-My personel website
+## www.yedincel.com
+- Kişisel web sitem.
+
